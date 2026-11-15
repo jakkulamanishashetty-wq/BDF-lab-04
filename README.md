@@ -4,10 +4,11 @@
 **Registration Number:** 252U1R6098  
 **Section:** AI-ML 2B  
 **Course:** Backend Development Fundamentals  
-**Faculty:** Joel Prashanth D
+
 
 ## Live Link
-Not deployed yet.
+https://bdf-lab-04-1.onrender.com
+
 
 ## Objective
 To implement user registration and login functionality using Express.js, SQLite, bcrypt password hashing and JSON Web Tokens (JWT).
@@ -40,6 +41,12 @@ To implement user registration and login functionality using Express.js, SQLite,
 |---|---|---|
 | POST | /register | Register a new user with a hashed password |
 | POST | /login | Verify user credentials and generate a JWT token |
+
+Registration
+POST   -  https://bdf-lab-04-1.onrender.com/register
+
+Login
+POST   -  https://bdf-lab-04-1.onrender.com/login
 
 ## Authentication Details
 
